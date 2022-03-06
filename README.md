@@ -9,4 +9,4 @@ You need to install :
 If you've done that, just run the program without any worries again!
 
 # Contact Me
-If you encountered any problem or need help/support, contact me on Discord : Aerial#1337
+If you encountered any problem or need help/support, contact me on Discord : func#0001
