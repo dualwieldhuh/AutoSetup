@@ -1,4 +1,4 @@
-# AutoSetup for GTPS, Created by Aerial#1337
+# AutoSetup for GTPS, Created by NanoX37
 
 # Import library
 from src.core.setup import *
@@ -7,7 +7,7 @@ def main():
     print("""
     ================================
     [?] GrowtopiaServer - Auto Setup
-    [/] Created by Aerial
+    [/] Created by NanoX37
     ================================
     """)
     start = input("Are you sure you want to start? (Y/n) : ")
